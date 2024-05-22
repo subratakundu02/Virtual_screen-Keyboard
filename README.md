@@ -6,5 +6,6 @@ No need for a keyboard to type anymore, with this project all you need is a came
 
 #sample
 
-![Uploading Screenshot (85).png…]()
-![Uploading Screenshot (86).png…]()
+
+![Screenshot (85)](https://github.com/subratakundu02/Virtual_screen-Keyboard/assets/125431382/d1d49848-d49a-4704-8a7b-c312be915423)
+![Screenshot (86)](https://github.com/subratakundu02/Virtual_screen-Keyboard/assets/125431382/1ef4aef2-3634-4ebd-96a7-28fd14013dcf)
